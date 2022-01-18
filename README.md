@@ -1,9 +1,11 @@
 # Adventure-Game
 Short explanation
 
-This game can be run in for example Ubuntu by running the ./projekti command in this folder. I already compiled the projekti.c file in to a file that can be just simply run.
+This game can be run in for example Ubuntu by first compiling the projekti.c file. To do this you can use a program like gcc to compile it.
 
-Here is what you can do:
+The basic tutorial for this is that you type "gcc projekti.c -o {exectutable program name}" in the downloaded repository. This creates a compiled file that can be simply run by typing "./{compiled code filename}" in the folder that contains the compiler. 
+
+Here is what you can do in this game:
 
   A: Type "A {Character name} {HP} {Weapon name} {ATK}" to create a character for the game.
 
