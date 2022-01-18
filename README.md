@@ -40,7 +40,10 @@ Type:
     2 number of characters were succesfully downloaded from LOTR
   ```
   - **"Q"**, to exit the game.
-
+  ```
+    Shutting the Game version 1.0 down
+    Thanks for playing
+  ```
 
 ### Errors
 I don't believe the game has any big errors but I might have missed something.
