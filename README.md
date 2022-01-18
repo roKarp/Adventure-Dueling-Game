@@ -41,6 +41,7 @@ Type:
   ```
   - **"Q"**, to exit the game.
   ```
+    Q
     Shutting the Game version 1.0 down
     Thanks for playing
   ```
