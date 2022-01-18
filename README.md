@@ -5,6 +5,8 @@ This game can be run in for example Ubuntu by first compiling the projekti.c fil
 
 The basic tutorial for this is that you type "gcc projekti.c -o {exectutable program name}" in the downloaded repository. This creates a compiled file that can be simply run by typing "./{compiled code filename}" in the folder that contains the compiler. 
 
+Added a Makefile to the repository, so you can just type "make" and it'll compile the projekti.c-code to a file called "game".
+
 Here is what you can do in this game:
 
   A: Type "A {Character name} {HP} {Weapon name} {ATK}" to create a character for the game.
