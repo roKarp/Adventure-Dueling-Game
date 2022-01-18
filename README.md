@@ -17,7 +17,7 @@ Type:
     Character Frodo has been added
   ```
 
-  - **"L"**, to print the created characters. This lists the characters current health, attack power and gained experience points from battle.4
+  - **"L"**, to print the created characters. This lists the characters name, current health, weapon name, attack power and gained experience points from battle.
   ```
   L
   Name: Gollum HP: 12 Weapon: Hands ATK: 3 EXP 17
