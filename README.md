@@ -3,7 +3,7 @@
 
 This game can be run in, for example, Ubuntu by first compiling the projekti.c file. To do this you can use a program like gcc to compile it.
 
-This repo contains a Makefile, so you can just type "make" to the terminal and it'll compile the projekti.c code to a file called "game".
+This repo contains a Makefile, so you can just type `make` to the terminal and it'll compile the projekti.c code to a file called "game".
 
 ## Tutorial
 
