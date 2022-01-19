@@ -1,4 +1,4 @@
-# Adventure-Fighting-Game
+# Adventure-Dueling-Game
   ![](https://cdn-www.comingsoon.net/assets/uploads/2021/01/lord-of-the-rings-e1610547648423.jpg)
 
 This game can be run in, for example, Ubuntu by first compiling the projekti.c file. To do this you can use a program like gcc to compile it.
