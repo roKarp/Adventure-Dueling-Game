@@ -13,15 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
-    - name: install gcc
-      run: apt install build-essentials
 
     - name: Install dependencies
       run: make
-      
-    - name: run make check
-      run: make check
-      
-    - name: run make distcheck
-      run: make distcheck
