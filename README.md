@@ -29,7 +29,7 @@ Type:
     H Frodo Gollum
     The attack was successful
   ```
-  - `W {filename}`, to save the current characters for a file that is located in the same place as this game.
+  - `W {filename}`, to save the current characters for a file that is located in the same folder as the game.
   ```
     W LOTR
     Your file has been succesfully saved
